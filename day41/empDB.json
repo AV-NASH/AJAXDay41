@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Phillie",
+      "gender": "F",
+      "address": "Torronto",
+      "date": {
+        "year": 2020,
+        "month": 11,
+        "day": 1
+      },
+      "salary": 10000
+    },
+    {
+      "id": 2,
+      "name": "Avi",
+      "gender": "M",
+      "address": "California",
+      "date": {
+        "year": 2020,
+        "month": 12,
+        "day": 3
+      },
+      "salary": 30000
+    },
+    {
+      "id": 6,
+      "name": "Sam",
+      "gender": "M",
+      "address": "London",
+      "date": {
+        "year": 2020,
+        "month": 11,
+        "day": 8
+      },
+      "salary": 43000
+    },
+    {
+      "id": 5,
+      "name": "Cory",
+      "gender": "M",
+      "address": "Madras",
+      "date": {
+        "year": 2020,
+        "month": 11,
+        "day": 8
+      },
+      "salary": 65000
+    },
+    {
+      "name": "Harry",
+      "gender": "M",
+      "address": "ym",
+      "date": {
+        "year": "2020",
+        "month": "11",
+        "day": "5"
+      },
+      "salary": "5000",
+      "id": 7
+    }
+  ]
+}
